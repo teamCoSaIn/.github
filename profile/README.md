@@ -1,5 +1,4 @@
-![Trilo logo_waifu2x_art_noise1_scale_waifu2x_art_noise1_scale](https://github.com/teamCoSaIn/.github/assets/53935439/6e116a5a-79f0-4e65-b482-dd21e03f0a2b)
-
+여행 플래너 플랫폼 Trilo 입니다.
 
 <!--
 
